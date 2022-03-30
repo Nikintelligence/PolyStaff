@@ -5,6 +5,7 @@
 ## To run the roject:
 
 cd ........ /server
+
 npm i
 
 npm run dev
